@@ -8,6 +8,7 @@ body {
   height: 100vh;
   width: 100vw;
   display: grid;
+  grid-template: 1fr 1fr 1fr 1fr / 1fr 1fr 1fr;
   /* your properties here */
 }
 
@@ -17,9 +18,7 @@ body {
 }
 
 /* add the .bigItem class */
-.grid-template {
 
-}
 .bigIten {
 
 }
